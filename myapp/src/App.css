@@ -55,7 +55,12 @@
 .App-header div:last-child {
   text-align: right;
 }
-
+.header-auth {
+  width: 100%;
+}
+.header-auth .header-auth-title {
+  text-align: center;
+}
  
 
 .app-container { 
